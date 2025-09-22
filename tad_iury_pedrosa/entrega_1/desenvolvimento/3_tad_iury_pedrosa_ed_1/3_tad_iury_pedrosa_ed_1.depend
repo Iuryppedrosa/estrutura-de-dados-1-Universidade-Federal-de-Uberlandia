@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1751898134 source:c:\users\iuryp\onedrive\desktop\pessoal\ufu\estudos\semestre_2\ed_1\tad-iurypedrosa\entrega_1\desenvolvimento\3_tad_iury_pedrosa_ed_1\esfera.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	"ponto_tridimensional.h"
+	"esfera.h"
+
+1751893229 c:\users\iuryp\onedrive\desktop\pessoal\ufu\estudos\semestre_2\ed_1\tad-iurypedrosa\entrega_1\desenvolvimento\3_tad_iury_pedrosa_ed_1\ponto_tridimensional.h
+
+1751898126 c:\users\iuryp\onedrive\desktop\pessoal\ufu\estudos\semestre_2\ed_1\tad-iurypedrosa\entrega_1\desenvolvimento\3_tad_iury_pedrosa_ed_1\esfera.h
+	"ponto_tridimensional.h"
+
+1751897404 c:\users\iuryp\onedrive\desktop\pessoal\ufu\estudos\semestre_2\ed_1\tad-iurypedrosa\entrega_1\desenvolvimento\2_3_tads_ponto_trid_&_esfera\2_tad_iury_pedrosa_ed_1\ponto_tridimensional.h
+
+1751898141 source:c:\users\iuryp\onedrive\desktop\pessoal\ufu\estudos\semestre_2\ed_1\tad-iurypedrosa\entrega_1\desenvolvimento\3_tad_iury_pedrosa_ed_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"esfera.h"
+	"ponto_tridimensional.h"
+

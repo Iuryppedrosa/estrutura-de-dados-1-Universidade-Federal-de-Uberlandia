@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1755905788 source:c:\users\iuryp\onedrive\desktop\pessoal\ufu\estudos\semestre_2\ed_1\pilha_atividade_1\pilha_ex_2_dinamica_encad\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tad.h"
+
+1755906237 source:c:\users\iuryp\onedrive\desktop\pessoal\ufu\estudos\semestre_2\ed_1\pilha_atividade_1\pilha_ex_2_dinamica_encad\tad.c
+	<stdio.h>
+	<string.h>
+	"tad.h"
+
+1755906366 c:\users\iuryp\onedrive\desktop\pessoal\ufu\estudos\semestre_2\ed_1\pilha_atividade_1\pilha_ex_2_dinamica_encad\tad.h
+

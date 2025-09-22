@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1753104200 source:c:\users\iuryp\onedrive\desktop\pessoal\ufu\estudos\semestre_2\ed_1\lista_estatica_sequencial_iury_pedrosa\exercicio_1\lista_estatica\lista_seq_string.c
+	"lista_seq_string.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1753106556 c:\users\iuryp\onedrive\desktop\pessoal\ufu\estudos\semestre_2\ed_1\lista_estatica_sequencial_iury_pedrosa\exercicio_1\lista_estatica\lista_seq_string.h
+
+1753106065 source:c:\users\iuryp\onedrive\desktop\pessoal\ufu\estudos\semestre_2\ed_1\lista_estatica_sequencial_iury_pedrosa\exercicio_1\lista_estatica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista_seq_string.h"
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1756495484 source:c:\users\iuryp\onedrive\desktop\pessoal\ufu\estudos\semestre_2\ed_1\fila_atividade_2\fila_estatica_sequencial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tad.h"
+
+1756419243 c:\users\iuryp\onedrive\desktop\pessoal\ufu\estudos\semestre_2\ed_1\fila_atividade_2\fila_estatica_sequencial\tad.h
+
+1756495597 source:c:\users\iuryp\onedrive\desktop\pessoal\ufu\estudos\semestre_2\ed_1\fila_atividade_2\fila_estatica_sequencial\tad.c
+	<stdio.h>
+	"tad.h"
+	<string.h>
+

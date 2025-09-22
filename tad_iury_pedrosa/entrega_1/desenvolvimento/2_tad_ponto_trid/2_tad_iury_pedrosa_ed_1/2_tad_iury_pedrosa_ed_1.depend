@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1751676160 source:c:\users\iuryp\onedrive\desktop\pessoal\ufu\estudos\semestre_2\ed_1\entrega_1\2_tad_iury_pedrosa_ed_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ponto_tridimensional.h"
+	"esfera.h"
+
+1751584052 c:\users\iuryp\onedrive\desktop\pessoal\ufu\estudos\semestre_2\ed_1\entrega_1\2_tad_iury_pedrosa_ed_1\ponto_tridimensional.h
+
+1751668849 source:c:\users\iuryp\onedrive\desktop\pessoal\ufu\estudos\semestre_2\ed_1\entrega_1\2_tad_iury_pedrosa_ed_1\ponto_tridimensional.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	"ponto_tridimensional.h"
+
+1751673910 c:\users\iuryp\onedrive\desktop\pessoal\ufu\estudos\semestre_2\ed_1\entrega_1\2_tad_iury_pedrosa_ed_1\esfera.h
+	"ponto_tridimensional.h"
+
+1751676131 source:c:\users\iuryp\onedrive\desktop\pessoal\ufu\estudos\semestre_2\ed_1\entrega_1\2_tad_iury_pedrosa_ed_1\esfera.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	"ponto_tridimensional.h"
+	"esfera.h"
+
+1751897376 source:c:\users\iuryp\onedrive\desktop\pessoal\ufu\estudos\semestre_2\ed_1\tad-iurypedrosa\entrega_1\desenvolvimento\2_3_tads_ponto_trid_&_esfera\2_tad_iury_pedrosa_ed_1\ponto_tridimensional.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	"ponto_tridimensional.h"
+
+1751897404 c:\users\iuryp\onedrive\desktop\pessoal\ufu\estudos\semestre_2\ed_1\tad-iurypedrosa\entrega_1\desenvolvimento\2_3_tads_ponto_trid_&_esfera\2_tad_iury_pedrosa_ed_1\ponto_tridimensional.h
+
+1751897802 source:c:\users\iuryp\onedrive\desktop\pessoal\ufu\estudos\semestre_2\ed_1\tad-iurypedrosa\entrega_1\desenvolvimento\2_3_tads_ponto_trid_&_esfera\2_tad_iury_pedrosa_ed_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"C:\Users\iuryp\OneDrive\Desktop\Pessoal\UFU\Estudos\semestre_2\ed_1\TAD-IuryPedrosa\entrega_1\desenvolvimento\2_3_tads_ponto_trid_&_esfera\2_tad_iury_pedrosa_ed_1\ponto_tridimensional.h"
+
+1751897802 source:c:\users\iuryp\onedrive\desktop\pessoal\ufu\estudos\semestre_2\ed_1\tad-iurypedrosa\entrega_1\desenvolvimento\2_tad_ponto_trid\2_tad_iury_pedrosa_ed_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"C:\Users\iuryp\OneDrive\Desktop\Pessoal\UFU\Estudos\semestre_2\ed_1\TAD-IuryPedrosa\entrega_1\desenvolvimento\2_3_tads_ponto_trid_&_esfera\2_tad_iury_pedrosa_ed_1\ponto_tridimensional.h"
+
+1751897376 source:c:\users\iuryp\onedrive\desktop\pessoal\ufu\estudos\semestre_2\ed_1\tad-iurypedrosa\entrega_1\desenvolvimento\2_tad_ponto_trid\2_tad_iury_pedrosa_ed_1\ponto_tridimensional.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	"ponto_tridimensional.h"
+
+1751897404 c:\users\iuryp\onedrive\desktop\pessoal\ufu\estudos\semestre_2\ed_1\tad-iurypedrosa\entrega_1\desenvolvimento\2_tad_ponto_trid\2_tad_iury_pedrosa_ed_1\ponto_tridimensional.h
+

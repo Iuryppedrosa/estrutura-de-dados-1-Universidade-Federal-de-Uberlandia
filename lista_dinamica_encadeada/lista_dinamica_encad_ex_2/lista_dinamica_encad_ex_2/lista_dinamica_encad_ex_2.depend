@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1753653529 source:c:\users\iuryp\onedrive\desktop\pessoal\ufu\estudos\semestre_2\ed_1\lista_dinamica_encadeada\lista_dinamica_encad_ex_2\lista_dinamica_encad_ex_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista_dinamica_encad_ex_2.h"
+
+1753653531 source:c:\users\iuryp\onedrive\desktop\pessoal\ufu\estudos\semestre_2\ed_1\lista_dinamica_encadeada\lista_dinamica_encad_ex_2\lista_dinamica_encad_ex_2\lista_dinamica_encad_ex_2.c
+	<stdio.h>
+	<stdlib.h>
+	"lista_dinamica_encad_ex_2.h"
+
+1753653333 c:\users\iuryp\onedrive\desktop\pessoal\ufu\estudos\semestre_2\ed_1\lista_dinamica_encadeada\lista_dinamica_encad_ex_2\lista_dinamica_encad_ex_2\lista_dinamica_encad_ex_2.h
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1751242635 source:c:\users\iuryp\onedrive\desktop\pessoal\ufu\estudos\semestre_2\ed_1\tad_quadra\tad_quadra\main.c
+	<stdio.h>
+	<stdlib.h>
+	"quadra.h"
+
+1751242663 c:\users\iuryp\onedrive\desktop\pessoal\ufu\estudos\semestre_2\ed_1\tad_quadra\tad_quadra\quadra.h
+
+1751242635 source:c:\users\iuryp\onedrive\desktop\pessoal\ufu\estudos\semestre_2\ed_1\tad_quadra\tad_quadra\quadra.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"quadra.h"
+

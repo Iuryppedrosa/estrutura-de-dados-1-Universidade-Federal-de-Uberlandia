@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1749565273 source:c:\users\iuryp\onedrive\desktop\pessoal\ufu\estudos\semestre_2\ed_1\backes\ed_backes_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Ponto.h"
+
+1749565686 c:\users\iuryp\onedrive\desktop\pessoal\ufu\estudos\semestre_2\ed_1\backes\ed_backes_1\ponto.h
+
+1749565686 source:c:\users\iuryp\onedrive\desktop\pessoal\ufu\estudos\semestre_2\ed_1\backes\ed_backes_1\ponto.c
+	<stdlib.h>
+	<math.h>
+	"ponto.h"
+

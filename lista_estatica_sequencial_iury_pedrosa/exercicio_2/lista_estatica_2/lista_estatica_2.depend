@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1753140732 source:c:\users\iuryp\onedrive\desktop\pessoal\ufu\estudos\semestre_2\ed_1\lista_estatica_sequencial_iury_pedrosa\exercicio_2\lista_estatica_2\main.c
+	"lista_bebidas.h"
+	<stdio.h>
+	<string.h>
+
+1753140583 c:\users\iuryp\onedrive\desktop\pessoal\ufu\estudos\semestre_2\ed_1\lista_estatica_sequencial_iury_pedrosa\exercicio_2\lista_estatica_2\lista_bebidas.h
+
+1753140653 source:c:\users\iuryp\onedrive\desktop\pessoal\ufu\estudos\semestre_2\ed_1\lista_estatica_sequencial_iury_pedrosa\exercicio_2\lista_estatica_2\lista_bebidas.c
+	"lista_bebidas.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+

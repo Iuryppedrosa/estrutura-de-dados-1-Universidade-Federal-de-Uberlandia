@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1758568541 source:c:\users\iuryp\onedrive\desktop\pessoal\ufu\estudos\semestre_2\ed_1\lista_algoritmos_de_ordenacao\ordenacao_alg_iury_pedrosa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+

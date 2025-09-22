@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1755103655 source:c:\users\iuryp\onedrive\desktop\pessoal\ufu\estudos\semestre_2\ed_1\lista_recursiva\main.c
+	<stdio.h>
+	"tad.h"
+
+1755103716 c:\users\iuryp\onedrive\desktop\pessoal\ufu\estudos\semestre_2\ed_1\lista_recursiva\tad.h
+
+1755103688 source:c:\users\iuryp\onedrive\desktop\pessoal\ufu\estudos\semestre_2\ed_1\lista_recursiva\tad.c
+	<stdio.h>
+	<stdlib.h>
+	"tad.h"
+

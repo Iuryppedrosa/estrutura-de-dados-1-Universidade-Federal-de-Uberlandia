@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1756773003 source:c:\users\iuryp\onedrive\desktop\pessoal\ufu\estudos\semestre_2\ed_1\pilha_atividade_1\fila_dinamica_encadeada_simples\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tad.h"
+
+1756772939 source:c:\users\iuryp\onedrive\desktop\pessoal\ufu\estudos\semestre_2\ed_1\pilha_atividade_1\fila_dinamica_encadeada_simples\tad.c
+	<stdio.h>
+	<stdlib.h>
+	"tad.h"
+
+1756845622 c:\users\iuryp\onedrive\desktop\pessoal\ufu\estudos\semestre_2\ed_1\pilha_atividade_1\fila_dinamica_encadeada_simples\tad.h
+
+1756773003 source:c:\users\iuryp\onedrive\desktop\pessoal\ufu\estudos\semestre_2\ed_1\fila_atividade_2\fila_dinamica_encadeada_simples\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tad.h"
+
+1756845622 c:\users\iuryp\onedrive\desktop\pessoal\ufu\estudos\semestre_2\ed_1\fila_atividade_2\fila_dinamica_encadeada_simples\tad.h
+
+1756929968 source:c:\users\iuryp\onedrive\desktop\pessoal\ufu\estudos\semestre_2\ed_1\fila_atividade_2\fila_dinamica_encadeada_simples\tad.c
+	<stdio.h>
+	<stdlib.h>
+	"tad.h"
+
